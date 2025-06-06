@@ -1,0 +1,13 @@
+/* External css */
+h3{
+    color: green;
+    font-size: 35px;
+}
+
+body{
+    padding-bottom: 500px;
+}
+
+p{
+    color:blueviolet;
+}
