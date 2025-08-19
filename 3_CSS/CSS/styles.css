@@ -11,3 +11,21 @@ body{
 p{
     color:blueviolet;
 }
+
+/* Algum comentário */
+
+/* Classes */
+
+.paragraph{
+    background-color:black;
+    color:aqua;
+    padding: 5px;
+}
+
+/* IDs */
+
+#exclusive-title{
+    background-color:blueviolet;
+    color:yellow;
+    padding: 10px;
+}
